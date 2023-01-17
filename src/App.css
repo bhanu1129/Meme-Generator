@@ -63,7 +63,7 @@ main{
     cursor: pointer;
 }
 .meme-image{
-    width:93vw;
-    height:60vh;
-    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
